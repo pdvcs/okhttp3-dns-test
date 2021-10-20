@@ -1,0 +1,54 @@
+# Maven
+.mvn/
+mvnw*
+target/
+
+# Gradle
+.gradle/
+gradle/
+gradlew*
+build/
+
+HELP.md
+
+# IDE Cruft
+
+# STS / Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+
+*.class
+*.log
+
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+hs_err_pid*
+*.swp
